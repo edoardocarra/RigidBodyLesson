@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{96861968-2D71-F840-6B9B-3BD01D32BEE7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WallController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraControl.cs" Line="43" Column="5" />
+      <File FileName="Assets/Scripts/EmitterControl.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/ProjectileControl.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/WallController.cs" Line="16" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
